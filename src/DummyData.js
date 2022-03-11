@@ -44,3 +44,46 @@ export const userData = [
         "Active User": 4000,
     },
 ];
+
+export const userRows = [
+    {
+        id: 1,
+        username: "abinash0013",
+        avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        email: "abinash0013@demo.com",
+        status: "active",
+        transaction: "$123.00",
+    },
+    {
+        id: 2,
+        username: "abinash0013",
+        avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        email: "abinash0013@demo.com",
+        status: "active",
+        transaction: "$123.00",
+    },
+    {
+        id: 3,
+        username: "abinash0013",
+        avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        email: "abinash0013@demo.com",
+        status: "active",
+        transaction: "$123.00",
+    },
+    {
+        id: 4,
+        username: "abinash0013",
+        avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        email: "abinash0013@demo.com",
+        status: "active",
+        transaction: "$123.00",
+    },
+    {
+        id: 5,
+        username: "abinash0013",
+        avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        email: "abinash0013@demo.com",
+        status: "active",
+        transaction: "$123.00",
+    },
+];
