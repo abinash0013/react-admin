@@ -48,42 +48,104 @@ export const userData = [
 export const userRows = [
     {
         id: 1,
-        username: "abinash0013",
+        username: "Apple airpods",
         avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
         email: "abinash0013@demo.com",
         status: "active",
-        transaction: "$123.00",
+        prices: "$123.00",
     },
     {
         id: 2,
-        username: "abinash0013",
+        username: "Apple airpods",
         avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
         email: "abinash0013@demo.com",
         status: "active",
-        transaction: "$123.00",
+        prices: "$123.00",
     },
     {
         id: 3,
-        username: "abinash0013",
+        username: "Apple airpods",
         avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
         email: "abinash0013@demo.com",
         status: "active",
-        transaction: "$123.00",
+        prices: "$123.00",
     },
     {
         id: 4,
-        username: "abinash0013",
+        username: "Apple airpods",
         avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
         email: "abinash0013@demo.com",
         status: "active",
-        transaction: "$123.00",
+        prices: "$123.00",
     },
     {
         id: 5,
-        username: "abinash0013",
+        username: "Apple airpods",
         avatar: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
         email: "abinash0013@demo.com",
         status: "active",
-        transaction: "$123.00",
+        prices: "$123.00",
+    },
+];
+
+export const productRows = [
+    {
+        id: 1,
+        productName: "Apple airpods",
+        image: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        stocks: "100",
+        status: "active",
+        prices: "$123.00",
+    },
+    {
+        id: 2,
+        productName: "Apple airpods",
+        image: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        stocks: "100",
+        status: "active",
+        prices: "$123.00",
+    },
+    {
+        id: 3,
+        productName: "Apple airpods",
+        image: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        stocks: "100",
+        status: "active",
+        prices: "$123.00",
+    },
+    {
+        id: 4,
+        productName: "Apple airpods",
+        image: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        stocks: "100",
+        status: "active",
+        prices: "$123.00",
+    },
+    {
+        id: 5,
+        productName: "Apple airpods",
+        image: "https://yt3.ggpht.com/yti/APfAmoEG-Qt8rpCFLTNFXsuN6ATS0iIub5Q9JUrpTMYzE7g=s88-c-k-c0x00ffffff-no-rj-mo",
+        stocks: "100",
+        status: "active",
+        prices: "$123.00",
+    },
+];
+
+export const productData = [
+    {
+        name: "Jan",
+        Sales: 1000,
+    },
+    {
+        name: "Feb",
+        Sales: 1500,
+    },
+    {
+        name: "Apr",
+        Sales: 1800,
+    },
+    {
+        name: "May",
+        Sales: 3000,
     },
 ];
